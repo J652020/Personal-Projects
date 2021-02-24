@@ -7,12 +7,12 @@ namespace WordsearchAssessedCoursework
         static void Main(string[] args)
         {
 			Console.WriteLine("Please enter your age. ");
-			agestring = Console.ReadLine();
+			string agestring = Console.ReadLine();
 			int age = int.Parse(agestring);
 			
 			if (age >= 18)
 			{
-				Console.WriteLine("This person can buy alcohol. ")
+				Console.WriteLine("This person can buy alcohol. ");
 			}
 			else
 			{
