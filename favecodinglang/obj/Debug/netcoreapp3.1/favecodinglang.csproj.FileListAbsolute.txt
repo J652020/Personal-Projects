@@ -1,0 +1,13 @@
+C:\Code\Personal-Projects\favecodinglang\bin\Debug\netcoreapp3.1\favecodinglang.exe
+C:\Code\Personal-Projects\favecodinglang\bin\Debug\netcoreapp3.1\favecodinglang.deps.json
+C:\Code\Personal-Projects\favecodinglang\bin\Debug\netcoreapp3.1\favecodinglang.runtimeconfig.json
+C:\Code\Personal-Projects\favecodinglang\bin\Debug\netcoreapp3.1\favecodinglang.runtimeconfig.dev.json
+C:\Code\Personal-Projects\favecodinglang\bin\Debug\netcoreapp3.1\favecodinglang.dll
+C:\Code\Personal-Projects\favecodinglang\bin\Debug\netcoreapp3.1\favecodinglang.pdb
+C:\Code\Personal-Projects\favecodinglang\obj\Debug\netcoreapp3.1\favecodinglang.csprojAssemblyReference.cache
+C:\Code\Personal-Projects\favecodinglang\obj\Debug\netcoreapp3.1\favecodinglang.AssemblyInfoInputs.cache
+C:\Code\Personal-Projects\favecodinglang\obj\Debug\netcoreapp3.1\favecodinglang.AssemblyInfo.cs
+C:\Code\Personal-Projects\favecodinglang\obj\Debug\netcoreapp3.1\favecodinglang.csproj.CoreCompileInputs.cache
+C:\Code\Personal-Projects\favecodinglang\obj\Debug\netcoreapp3.1\favecodinglang.dll
+C:\Code\Personal-Projects\favecodinglang\obj\Debug\netcoreapp3.1\favecodinglang.pdb
+C:\Code\Personal-Projects\favecodinglang\obj\Debug\netcoreapp3.1\favecodinglang.genruntimeconfig.cache
