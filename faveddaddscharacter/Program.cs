@@ -10,7 +10,8 @@ namespace faveddaddsdad
             Console.ReadLine();
             Console.WriteLine("He is a hot Dad! My favourite is Joseph. ");
 
-            Console.WriteLine("");
+            Console.WriteLine("Press any button to exit. ");
+            Console.ReadKey();
         }
     }
 }
