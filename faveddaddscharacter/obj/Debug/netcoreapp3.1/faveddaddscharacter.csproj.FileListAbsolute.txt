@@ -1,0 +1,13 @@
+C:\Code\Personal-Projects\faveddaddscharacter\bin\Debug\netcoreapp3.1\faveddaddscharacter.exe
+C:\Code\Personal-Projects\faveddaddscharacter\bin\Debug\netcoreapp3.1\faveddaddscharacter.deps.json
+C:\Code\Personal-Projects\faveddaddscharacter\bin\Debug\netcoreapp3.1\faveddaddscharacter.runtimeconfig.json
+C:\Code\Personal-Projects\faveddaddscharacter\bin\Debug\netcoreapp3.1\faveddaddscharacter.runtimeconfig.dev.json
+C:\Code\Personal-Projects\faveddaddscharacter\bin\Debug\netcoreapp3.1\faveddaddscharacter.dll
+C:\Code\Personal-Projects\faveddaddscharacter\bin\Debug\netcoreapp3.1\faveddaddscharacter.pdb
+C:\Code\Personal-Projects\faveddaddscharacter\obj\Debug\netcoreapp3.1\faveddaddscharacter.csprojAssemblyReference.cache
+C:\Code\Personal-Projects\faveddaddscharacter\obj\Debug\netcoreapp3.1\faveddaddscharacter.AssemblyInfoInputs.cache
+C:\Code\Personal-Projects\faveddaddscharacter\obj\Debug\netcoreapp3.1\faveddaddscharacter.AssemblyInfo.cs
+C:\Code\Personal-Projects\faveddaddscharacter\obj\Debug\netcoreapp3.1\faveddaddscharacter.csproj.CoreCompileInputs.cache
+C:\Code\Personal-Projects\faveddaddscharacter\obj\Debug\netcoreapp3.1\faveddaddscharacter.dll
+C:\Code\Personal-Projects\faveddaddscharacter\obj\Debug\netcoreapp3.1\faveddaddscharacter.pdb
+C:\Code\Personal-Projects\faveddaddscharacter\obj\Debug\netcoreapp3.1\faveddaddscharacter.genruntimeconfig.cache

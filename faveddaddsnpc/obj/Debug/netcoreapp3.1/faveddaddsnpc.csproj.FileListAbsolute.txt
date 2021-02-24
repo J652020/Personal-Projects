@@ -1,0 +1,12 @@
+C:\Code\Personal-Projects\faveddaddsnpc\bin\Debug\netcoreapp3.1\faveddaddsnpc.exe
+C:\Code\Personal-Projects\faveddaddsnpc\bin\Debug\netcoreapp3.1\faveddaddsnpc.deps.json
+C:\Code\Personal-Projects\faveddaddsnpc\bin\Debug\netcoreapp3.1\faveddaddsnpc.runtimeconfig.json
+C:\Code\Personal-Projects\faveddaddsnpc\bin\Debug\netcoreapp3.1\faveddaddsnpc.runtimeconfig.dev.json
+C:\Code\Personal-Projects\faveddaddsnpc\bin\Debug\netcoreapp3.1\faveddaddsnpc.dll
+C:\Code\Personal-Projects\faveddaddsnpc\bin\Debug\netcoreapp3.1\faveddaddsnpc.pdb
+C:\Code\Personal-Projects\faveddaddsnpc\obj\Debug\netcoreapp3.1\faveddaddsnpc.AssemblyInfoInputs.cache
+C:\Code\Personal-Projects\faveddaddsnpc\obj\Debug\netcoreapp3.1\faveddaddsnpc.AssemblyInfo.cs
+C:\Code\Personal-Projects\faveddaddsnpc\obj\Debug\netcoreapp3.1\faveddaddsnpc.csproj.CoreCompileInputs.cache
+C:\Code\Personal-Projects\faveddaddsnpc\obj\Debug\netcoreapp3.1\faveddaddsnpc.dll
+C:\Code\Personal-Projects\faveddaddsnpc\obj\Debug\netcoreapp3.1\faveddaddsnpc.pdb
+C:\Code\Personal-Projects\faveddaddsnpc\obj\Debug\netcoreapp3.1\faveddaddsnpc.genruntimeconfig.cache
